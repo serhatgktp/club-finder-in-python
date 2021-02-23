@@ -16,6 +16,8 @@ The order of friends and clubs do not matter. It is important that club names do
 
 To use the program simply run club_finder.py, and instructions will be inside the shell.
 
+There are also several internal functions like sorting etc. that are not accessible through the shell. These functions were written to be tested.
+
 NOTE: There are a couple bugs that I will get around to fixing.
 
 ![Alt Text](https://github.com/serhatgktp/club-finder-in-python/blob/main/Example.jpg)
