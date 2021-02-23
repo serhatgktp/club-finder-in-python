@@ -18,3 +18,4 @@ To use the program simply run club_finder.py, and instructions will be inside th
 
 NOTE: There are a couple bugs that I will get around to fixing.
 
+https://github.com/serhatgktp/club-finder-in-python/blob/main/example.jpg?raw=true
